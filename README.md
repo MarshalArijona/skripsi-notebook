@@ -4,4 +4,9 @@ This research introduces least square adversarial autoencoder (LSAA)-an autoenco
 # Link
 [Link to the paper](https://www.researchgate.net/publication/344516945_Least_Square_Adversarial_Autoencoder)
 # Algorithm
+![alt text](https://github.com/MarshalArijona/CLUB--Generative-Network/blob/main/algorithm.PNG?raw=true)
 # Result
+![alt text](https://github.com/MarshalArijona/CLUB--Generative-Network/blob/main/reconstruction.PNG?raw=true)
+![alt text](https://github.com/MarshalArijona/CLUB--Generative-Network/blob/main/fid.PNG?raw=true)
+![alt text](https://github.com/MarshalArijona/CLUB--Generative-Network/blob/main/generated_mnist.PNG?raw=true)
+![alt text](https://github.com/MarshalArijona/CLUB--Generative-Network/blob/main/generated_fashion.PNG?raw=true)
