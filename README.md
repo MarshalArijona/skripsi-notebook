@@ -1,1 +1,1 @@
-# skripsi-notebook
+# Least Square Adversarial Autoencoder
