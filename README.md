@@ -7,6 +7,9 @@ This research introduces least square adversarial autoencoder (LSAA)-an autoenco
 ![alt text](https://github.com/MarshalArijona/CLUB--Generative-Network/blob/main/algorithm.PNG?raw=true)
 # Result
 ![alt text](https://github.com/MarshalArijona/CLUB--Generative-Network/blob/main/reconstruction.PNG?raw=true)
+
 ![alt text](https://github.com/MarshalArijona/CLUB--Generative-Network/blob/main/fid.PNG?raw=true)
+
 ![alt text](https://github.com/MarshalArijona/CLUB--Generative-Network/blob/main/generated mnist.PNG?raw=true)
+
 ![alt text](https://github.com/MarshalArijona/CLUB--Generative-Network/blob/main/generated fashion.PNG?raw=true)
