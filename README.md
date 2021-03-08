@@ -10,6 +10,6 @@ This research introduces least square adversarial autoencoder (LSAA)-an autoenco
 
 ![alt text](https://github.com/MarshalArijona/skripsi-notebook/blob/master/fid.PNG?raw=true)
 
-![alt text](https://github.com/MarshalArijona/skripsi-notebook/blob/master/generated mnist.PNG?raw=true)
+![alt text](https://github.com/MarshalArijona/skripsi-notebook/blob/master/"generated mnist.PNG"?raw=true)
 
-![alt text](https://github.com/MarshalArijona/skripsi-notebook/blob/master/generated fashion.PNG?raw=true)
+![alt text](https://github.com/MarshalArijona/skripsi-notebook/blob/master/"generated fashion.PNG"?raw=true)
